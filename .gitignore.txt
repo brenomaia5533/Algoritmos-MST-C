@@ -1,0 +1,8 @@
+# Ignorar arquivos compilados e executáveis
+*.exe
+*.o
+
+# Ignorar arquivos de configuração específicos do Dev-C++
+*.layout
+*.dev
+Makefile.win
